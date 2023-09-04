@@ -1,4 +1,4 @@
-# SOLID based on channels [EricRoby](https://www.youtube.com/watch?v=ZkknJI3QMss&ab_channel=EricRoby) 
+# SOLID based on channels [EricRoby](https://www.youtube.com/watch?v=ZkknJI3QMss&ab_channel=EricRoby) and [Website](https://realpython.com/solid-principles-python/)
 Thứ nhất:  Single Responsibility Principle (S.R.P – nguyên lí đơn trách nhiệm): a class should have only a single responsibility. 1 class chỉ chịu một trách nhiệm/nhiệm vụ duy nhất.
 
 Thứ 2: Open/Closed Principle (O.P.P – nguyên lí đóng mở): software entities … should be open for extension, but closed for modification. Một class, moldule, function… chỉ được phép mở rộng chứ không được sửa xóa
